@@ -1,0 +1,27 @@
+{
+  "name": "ps6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxytZhang/SI579PS6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxytZhang/SI579PS6/issues"
+  },
+  "homepage": "https://github.com/MaxytZhang/SI579PS6#readme",
+  "devDependencies": {
+    "webpack": "^5.24.3",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "intro.js": "^3.3.1"
+  }
+}
